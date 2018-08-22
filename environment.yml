@@ -1,0 +1,11 @@
+name: datamine-telluslabs
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3
+- jupyter
+- pandas
+- numpy
+- statsmodels
+- matplotlib
