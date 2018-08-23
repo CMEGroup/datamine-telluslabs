@@ -12,6 +12,10 @@ Information about Tellus Labs and Datamine:
 Insert Image of Seasonality Decom from Analysis
 ![alt text](http://url/to/img.png)
 --->
+## Run on Binder
+Automatcially run this in a hosted jupyter notebook with all the dependencies.  
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CMEGroup/datamine-telluslabs/master)
 
 
 ## To Run This Analysis Locally
