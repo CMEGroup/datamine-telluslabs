@@ -1,6 +1,6 @@
 LSTM - Linear Regression Model For Predicting Yields
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Xupransh/datamine-telluslabs/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Xupransh/datamine-telluslabs/master?filepath=%2FLSTM-Model%2FLSTM%2BLR.ipynb)
 
 Illinois_county_dist -
 
