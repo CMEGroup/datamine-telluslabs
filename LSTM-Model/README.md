@@ -1,17 +1,13 @@
-LSTM - Linear Regression Model For Predicting Yields
+LSTM - Linear Regression Model For Predicting Corn Yields
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Xupransh/datamine-telluslabs/master?filepath=%2FLSTM-Model%2FLSTM%2BLR.ipynb)
-
-Illinois_county_dist -
-
-Distance between each county in Illinois, used to gather prior information
 
 
 US_Corn_Area -
 
 State level data for harvest area, yield, of Corn in the US ~1800s-2018
 
+US_Total_yield - 
 
-Processed Illinois Corn Area data -
+Data for the total yield in the US/year in BU/Acre - this was added to the original dataset to provide information about yield
 
-County level data for harvest area, yield, of Corn in the Illinois ~2012-2017
