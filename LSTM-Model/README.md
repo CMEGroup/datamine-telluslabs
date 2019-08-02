@@ -7,3 +7,6 @@ US_Total_yield -
 
 Data for the total yield in the US/year in BU/Acre - this was added to the original dataset to provide information about yield
 
+US_data_modified - 
+
+Contains the original dataset augmented with the yield value for each year, and some other fields that are used in the model
