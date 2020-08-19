@@ -7,5 +7,6 @@ dependencies:
 - jupyter
 - pandas
 - numpy
-- statsmodels
+- tensorflow
+- scikit-learn
 - matplotlib
